@@ -1,0 +1,17 @@
+{
+  "name": "jquery-input-ip-address-control",
+  "version": "0.1.0",
+  "homepage": "https://github.com/felipevolpatto/jquery-input-ip-address-control",
+  "authors": [
+    "Felipe Volpatto"
+  ],
+  "description": "jQuery Input Ip Address Control",
+  "main": "jquery.input-ip-address-control.js",
+  "keywords": [
+    "IP Input",
+    "IP Control"
+  ],
+  "license": "MIT",
+  "ignore": [
+  ]
+}
